@@ -18,7 +18,10 @@
 ## Como executar ▶️
     Certifique-se de ter o Python instalado
     Instale a dependência: pip install colorama
-    Execute o arquivo no terminal: python3 smragua.py
+    Execute o arquivo no terminal:
+```
+python3 smragua.py
+```
 
 ## Exemplo de saída de dados 📈
 ```
