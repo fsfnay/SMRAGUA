@@ -7,7 +7,7 @@
     Exibir mensagens de alerta com cores diferentes, diretamente no terminal, conforme o nível de água disponível no reservatório.
 
 ## Linguagem de programação 🔡
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Funcionalidades 🧠
     Geração aleatória do nível de água (0 a 100%), de data (DD/MM/AA) e hora (HH:MM:SS), com base em valores definidos dentro de um limite prestabelecido
